@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DIR="$( cd "$( dirname "$0" )" >/dev/null 2>&1 && pwd )"
+DIR="$( pwd )"
 
 echo "set SS="$DIR
 echo "set SS_STACK="$DIR
